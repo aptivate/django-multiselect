@@ -1,0 +1,3 @@
+[submodule "static/jquery-ui-multiselect-widget"]
+	path = static/jquery-ui-multiselect-widget
+	url = git://github.com/ehynds/jquery-ui-multiselect-widget.git
